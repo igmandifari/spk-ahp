@@ -1,4 +1,4 @@
-# spk-ahp
+# spk-ahp-penerimaan_beasiswa
 Repo ini dibuat untuk kebutuhan Tugas Akhir dari mata kuliah SPK ( Sistem Penunjang Keputusan )
 
 # Nama Anggota Kelompok :
